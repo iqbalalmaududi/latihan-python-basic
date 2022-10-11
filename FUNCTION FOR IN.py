@@ -6,17 +6,8 @@
 #angka2(1, 2, 3, 4)
 
 #repeat number in function by multiplying line
-# def angka2(*angka):
-
-    #for angkaa in angka:
-        #print(angka)
-
-#angka2(1,2,3,4,5)
-
 def angka2(*angka):
-    jumlah = 5
-    for angka in angka:
-        jumlah *= angka
-    return jumlah
+    for angkaa in angka:
+        print(angka)
 
-print(angka2(1,2,3,4,5))
+angka2(1,2,3,4,5)
