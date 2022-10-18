@@ -1,2 +1,2 @@
 # latihan-python-basic
-kumpulan script python dasar yang di tulis langsung oleh iqbal al maududi
+This directory contain python basic script written by iqbal al maududi for purpose of learning python
